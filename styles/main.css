@@ -1,0 +1,13 @@
+body {
+    background-color: #1e2327;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    width: 720px;
+}
